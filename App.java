@@ -2,8 +2,24 @@ public class App {
 
     public static void main(String[] args) {
        
-    int size = 10;
-    int[] arr = new int[size];
+    int min =0 ;
+    int max = 0;
+    int arr [];
+    
+
+
+
+
+
+
+
+    }
+
+
+
+
+
+
 
 
     }
